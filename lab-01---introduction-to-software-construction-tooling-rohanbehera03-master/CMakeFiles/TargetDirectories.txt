@@ -1,0 +1,4 @@
+/home/csmajs/rbehe002/lab-01---introduction-to-software-construction-tooling-rohanbehera03/CMakeFiles/rebuild_cache.dir
+/home/csmajs/rbehe002/lab-01---introduction-to-software-construction-tooling-rohanbehera03/CMakeFiles/edit_cache.dir
+/home/csmajs/rbehe002/lab-01---introduction-to-software-construction-tooling-rohanbehera03/CMakeFiles/c-echo.dir
+/home/csmajs/rbehe002/lab-01---introduction-to-software-construction-tooling-rohanbehera03/CMakeFiles/area_calculator.dir
